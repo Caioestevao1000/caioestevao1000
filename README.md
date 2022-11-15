@@ -4,7 +4,8 @@
 
 ![Caio Estevão GitHub stats](https://github-readme-stats.vercel.app/api?username=noobinho1000&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noobinho1000&layout=compact)](https://github.com/caioestevao/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noobinho1000)
+
 
 ##Tecnologias que uso no dia a dia
 <div style="display:inline_block"><br/>
