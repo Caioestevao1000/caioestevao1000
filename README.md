@@ -1,9 +1,9 @@
 ### Hello World! 
-<!--
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-estevao-666477245)
 
 ![Caio Estevão GitHub stats](https://github-readme-stats.vercel.app/api?username=caioestevao&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioestevao1000)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioestevao1000)
 
 
 ##Tecnologias que uso no dia a dia<div style="display:inline_block"><br/>
